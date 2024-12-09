@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-#include <stdio.h>
-#include <string.h>
-
 int contabilizador(char* cadena,int largo,int* contador_cad)
 {
 	int contador;
